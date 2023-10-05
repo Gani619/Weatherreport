@@ -1,0 +1,99 @@
+*{
+    color: black;
+}
+body{
+    background-image: url(./images/thumb-1920-384242.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+
+}
+
+.mainmenubar{
+    height: 13%;
+    width: 17%;
+    /* background-color: antiquewhite; */
+    position: fixed;
+    bottom: 85%;
+    right: 84%;
+
+}
+.menubar{
+    margin-left: 4%;
+    
+    position: fixed;
+
+}
+
+.headingweather{
+   
+    height: 34%;
+    width: 63%;
+    /* background:rgb(240 240 240 / 63%);
+    box-shadow: 0 5px  15px rgb(15, 2, 2); */
+    position: fixed;
+    left: 18%;
+    top: 29%;
+
+}
+.footercontact{
+    height:15%;
+    width:100%;
+    background:rgb(240 240 240 / 63%);
+    box-shadow: 0 5px  15px rgb(15, 2, 2);
+    
+    position: fixed;
+    
+    top:87%
+}
+.subfooter{
+    height: 100%;
+    width: 20%;
+    margin-left:40% ;
+
+
+}
+.mainlogo{
+    height:25%;
+    width:35%;
+    border-radius: 25px;
+}
+.Contact{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 3%;
+}
+.icons{
+    height: 18%;
+    width: 7%;
+    margin-left: 19%;
+    
+}
+.Bangaruheadinggg{
+height:30%;
+width:100%;
+background:rgb(240 240 240 / 63%);
+box-shadow: 0 5px  15px rgb(15, 2, 2);
+border-radius:  13px 13px 0px 0px ;
+}
+.reportheading{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+font-size: 46px;
+margin-left: 16%;
+}
+.webpagelinks{
+    height:40%;
+    width:100%;
+    /* background-color: antiquewhite; */
+    background:rgb(240 240 240 / 63%);
+    box-shadow: 0 5px  15px rgb(15, 2, 2);
+    border-radius: 0px 0px 13px 13px;
+}
+.btnsize{
+    margin-left: 1%;
+    height: 95%;
+    width: 48%;
+}
